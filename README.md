@@ -28,7 +28,7 @@ To use the Minimal theme:
     gem "github-pages", group: :jekyll_plugins
     ```
 
-## Customizing
+## Case Study Midnight Kids Academy - MDNKA
 
 ### Configuration variables
 
